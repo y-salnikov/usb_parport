@@ -30,3 +30,15 @@
 
 # Debug files
 *.dSYM/
+.dep/
+
+*.eep
+*.elf
+*.geany
+*.hex
+*.lss
+*.map
+*.sym
+*.lst
+*.pyc
+

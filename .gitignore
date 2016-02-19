@@ -42,3 +42,10 @@
 *.lst
 *.pyc
 _site/
+kernel/.tmp_versions/
+kernel/.usbparport.ko.cmd
+kernel/.usbparport.mod.o.cmd
+kernel/.usbparport.o.cmd
+kernel/Module.symvers
+kernel/modules.order
+kernel/usbparport.mod.c
